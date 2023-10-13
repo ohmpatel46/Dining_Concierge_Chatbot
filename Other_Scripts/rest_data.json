@@ -1,0 +1,400 @@
+{ "index": { "_index": "restaurant", "_id": "1" } } 
+{ "Business_ID": "x0k5kFArHLijdY8-NEQ7Xg", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "2" } }
+{ "Business_ID": "1_pK5aQ47atF50oAKHADhA", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "3" } }
+{ "Business_ID": "A-ert0jDRBfku9ogyW_mEg", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "4" } }
+{ "Business_ID": "m5Whyz8O8jM4DrE808h71g", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "5" } }
+{ "Business_ID": "ut-560tVcs2g-ZU0Y_qqHQ", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "6" } }
+{ "Business_ID": "qhXIW0LDT4XsoN2IE6dZHg", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "7" } }
+{ "Business_ID": "UtknyDJ_DPut-FKRqs0wpQ", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "8" } }
+{ "Business_ID": "QqrEF8_ZQCGi63cL10J5oA", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "9" } }
+{ "Business_ID": "ZikqL-flwV2XYlKtL2UfmA", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "10" } }
+{ "Business_ID": "50eKjWOB-H9iuo1ocACOaQ", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "11" } }
+{ "Business_ID": "9pMhRYYgV7E9L7pzECtJKA", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "12" } }
+{ "Business_ID": "t6PzD4uzBOfyCLcd_lT8cQ", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "13" } }
+{ "Business_ID": "z2VXX7wGl8XZ6_oo9W3koA", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "14" } }
+{ "Business_ID": "HEs6llkn3wIP1ATXeIZQew", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "15" } }
+{ "Business_ID": "xWVHj2XNcxEg79Nkb5Zb6Q", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "16" } }
+{ "Business_ID": "IU6pOHR8Re8kvSn0mzhPHg", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "17" } }
+{ "Business_ID": "7USPKYeaAfxl0Ch9j_1l7A", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "18" } }
+{ "Business_ID": "_nScWpFX3M1K7s30hFEsRw", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "19" } }
+{ "Business_ID": "jf3JRaxUYU93x8LFU-8gkA", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "20" } }
+{ "Business_ID": "DZE4ThXa7d0kSXnR3Hb-kg", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "21" } }
+{ "Business_ID": "w2-VGvlBCMYo9ko8Y_PzAw", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "22" } }
+{ "Business_ID": "3uEkZEAp7biQEtt0S7W1Vg", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "23" } }
+{ "Business_ID": "XLEdQl5s1bO5Iu43W_c96Q", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "24" } }
+{ "Business_ID": "VC1udoc_sbHdFaBr0-bMsA", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "25" } }
+{ "Business_ID": "ECUTH1VOWxZ9GwfzblMKzA", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "26" } }
+{ "Business_ID": "m9Q9x-Hcxp24gZCaTTJY-A", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "27" } }
+{ "Business_ID": "Va_mnsEvBghHXvc7uZIWJQ", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "28" } }
+{ "Business_ID": "FXDMFBM-rV2s5MHzA33d2g", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "29" } }
+{ "Business_ID": "NVMdf02l1GuzzDb7ESI_qQ", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "30" } }
+{ "Business_ID": "5UowQyu8tSljomOP-VL7NA", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "31" } }
+{ "Business_ID": "izRJeBfDQYJmd6ibIQ6Mfg", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "32" } }
+{ "Business_ID": "u_CnSp9FieAuWqhvCn-A2A", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "33" } }
+{ "Business_ID": "XKy4Cy4uNgO7rxhH4yFJQQ", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "34" } }
+{ "Business_ID": "dOQjniOt57mI9l9CmrCSJQ", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "35" } }
+{ "Business_ID": "yx8cpBwPttpdBvm4V1EawQ", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "36" } }
+{ "Business_ID": "Y8ZCMr7vNMspTjEi6VWgxA", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "37" } }
+{ "Business_ID": "9x95RpLEIDRWG2Y9w4qz4Q", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "38" } }
+{ "Business_ID": "zVLG_O3AQnvQ53PSJ5mTMA", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "39" } }
+{ "Business_ID": "sCHiXF4mZcsiY8_cBHNiqw", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "40" } }
+{ "Business_ID": "gWuHmSQ8G5FiKv-rEogwvA", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "41" } }
+{ "Business_ID": "DOdbSGm9ULZlVz-1-Jjhmg", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "42" } }
+{ "Business_ID": "ePn4BwyXeY8NKN-MWSgfrQ", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "43" } }
+{ "Business_ID": "KbCLZOKvPdNY7ptAg0kGxw", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "44" } }
+{ "Business_ID": "JSX6Pk56w4BhgO8eSvCrKg", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "45" } }
+{ "Business_ID": "zyQpS4QrYYB0VKXf7JPUlQ", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "46" } }
+{ "Business_ID": "lxNU-aBq0yPwBDx-i89ahA", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "47" } }
+{ "Business_ID": "iYh7mB7PDd5ZvZZ4lFPF1w", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "48" } }
+{ "Business_ID": "SP4bvMvxel_UPdof_er3HA", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "49" } }
+{ "Business_ID": "jYhbUh1TV7SCfPxjIhVpcg", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "50" } }
+{ "Business_ID": "raGF9jAO7JOiIbFQ2_bTAg", "Cuisine": "indpak" } 
+{ "index": { "_index": "restaurant", "_id": "51" } }
+{ "Business_ID": "vRrVSB-LegwUwIxpkeRVtQ", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "52" } }
+{ "Business_ID": "z5hRX3iJ5Ty_S38iG_WY3Q", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "53" } }
+{ "Business_ID": "3Gz07E5YJjDTJPSuzsAStQ", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "54" } }
+{ "Business_ID": "JYNBy2r3LVhJbLHE1bASfg", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "55" } }
+{ "Business_ID": "_LJFf9YqpYxvExTvVxb7Rw", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "56" } }
+{ "Business_ID": "nvlxtOwbGqPW8E6_sYTfvw", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "57" } }
+{ "Business_ID": "f7apP8A_0_KqcGQTK4V2TQ", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "58" } }
+{ "Business_ID": "XsXLVWr1UZWVhKThNvNiaA", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "59" } }
+{ "Business_ID": "AILf_L7I9vJ2pyHmSo9v8Q", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "60" } }
+{ "Business_ID": "NN3mOWF5e_pnR1ArqM2bHQ", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "61" } }
+{ "Business_ID": "MmXZLVwWcYugi_TXSHmjeQ", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "62" } }
+{ "Business_ID": "B3_K2kUVbYOU0VaLcj_LTw", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "63" } }
+{ "Business_ID": "z0lX40tXQxOHlU26VhLATA", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "64" } }
+{ "Business_ID": "EKkHfSYTm266-ZBve3SdgA", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "65" } }
+{ "Business_ID": "nRO136GRieGtxz18uD61DA", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "66" } }
+{ "Business_ID": "oLA02lMIfgvbYquvXzkARw", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "67" } }
+{ "Business_ID": "b8a-8u_A51v2IzyjLVsx6w", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "68" } }
+{ "Business_ID": "DoSU8IPq-Py_YV3kYmXPfQ", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "69" } }
+{ "Business_ID": "7N6Jle8ovxzAiiwwtE77Yw", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "70" } }
+{ "Business_ID": "Hh9glEE_xDYT_pPUsRPXlA", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "71" } }
+{ "Business_ID": "IOHaEgK1zDvUvB3SfKuGCw", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "72" } }
+{ "Business_ID": "veq1Bl1DW3UWMekZJUsG1Q", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "73" } }
+{ "Business_ID": "c3eMI4_o4dPDDhPV_ibBYQ", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "74" } }
+{ "Business_ID": "xMUZfoyzyJoTfZxrEZus4Q", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "75" } }
+{ "Business_ID": "NbKATjp2MoQ4TvKKwu9fdA", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "76" } }
+{ "Business_ID": "TN4RnyqHMSupRFot4Q-_EA", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "77" } }
+{ "Business_ID": "mhhTORjUdXj-UIDjyGmhBg", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "78" } }
+{ "Business_ID": "SULHf6nGQ8sK0UpG1XU30w", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "79" } }
+{ "Business_ID": "7iY35991NhQ1AShJZCNZgA", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "80" } }
+{ "Business_ID": "Pr-q47vsmM4aoc2t_Sfk8w", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "81" } }
+{ "Business_ID": "1DfbZ0VsSCg9g1KILmnvzQ", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "82" } }
+{ "Business_ID": "xq0cX_DgxiJMXwhmEl9kUA", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "83" } }
+{ "Business_ID": "H_KyiRhwho8rdlw_R93_0Q", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "84" } }
+{ "Business_ID": "qm1J_dPA5IHij1oAnoZwHw", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "85" } }
+{ "Business_ID": "OAqsZMbjv66nOMqlimnYuQ", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "86" } }
+{ "Business_ID": "pQuZDnefX038xurT1BhDXA", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "87" } }
+{ "Business_ID": "WyiTT3VHjzowMnOnUpZ7TQ", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "88" } }
+{ "Business_ID": "bEXTA_Gwo2oVg4gnFd9fNA", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "89" } }
+{ "Business_ID": "jDIVPYpxQAk1HUAi0NIlQw", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "90" } }
+{ "Business_ID": "RjeW_l8OF99rn5df5-Rj4g", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "91" } }
+{ "Business_ID": "5S8ZK9XLdl4l645twbNYZQ", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "92" } }
+{ "Business_ID": "UK1oGbr8GU2rufpnJR4-HQ", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "93" } }
+{ "Business_ID": "E48WbksxAk19a8vjJRVIVQ", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "94" } }
+{ "Business_ID": "YHGGyH4hn_5UyV1rWgA5hg", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "95" } }
+{ "Business_ID": "ieXKc6S3WlEiVkyxgaF9Ig", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "96" } }
+{ "Business_ID": "7EaiwMVaNdQibSs0yYkE5Q", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "97" } }
+{ "Business_ID": "xEDD2ScBU3jHhWxlMC7dkQ", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "98" } }
+{ "Business_ID": "TcuWyuZAORVnQBPCMNbTgw", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "99" } }
+{ "Business_ID": "JeCtYANe0eqW8xe1SN3lWg", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "100" } }
+{ "Business_ID": "oTL_nPII6x0HfPVpEQklUg", "Cuisine": "Chinese" } 
+{ "index": { "_index": "restaurant", "_id": "101" } }
+{ "Business_ID": "A_YpTLbAlEqeLVSs9bxbEA", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "102" } }
+{ "Business_ID": "22nKUyCIbpnzR6R3_g1ptQ", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "103" } }
+{ "Business_ID": "VmdyRRMtUXOWV7F7w0ImwQ", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "104" } }
+{ "Business_ID": "DZaN3bNWfwcm__sNw5bvDg", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "105" } }
+{ "Business_ID": "7Q68kpPS6okcC8Kkw7g42A", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "106" } }
+{ "Business_ID": "UA2M9QFZghe-9th2KwLoWQ", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "107" } }
+{ "Business_ID": "FZpm4_fbd6P984foOUejWg", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "108" } }
+{ "Business_ID": "s-b1Mn_Gzkftz2MCjZ3lwg", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "109" } }
+{ "Business_ID": "zR92VSkXj1rt5KTJ15bkAw", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "110" } }
+{ "Business_ID": "210LxcDl5dXlYOMlIUmEFQ", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "111" } }
+{ "Business_ID": "b2naaHiaR57Hm6JZG0njPg", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "112" } }
+{ "Business_ID": "UC3n_0vZ5zI1fvi7UzNZAg", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "113" } }
+{ "Business_ID": "ettNH3FWzwaHCBMSFuy5tA", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "114" } }
+{ "Business_ID": "-Exv1AEsaKU6Cdb2TO_ZUg", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "115" } }
+{ "Business_ID": "jNRT5vY1Hvp5WDTaHy4Mhw", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "116" } }
+{ "Business_ID": "XsElXaLxUPKquI78poB8yw", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "117" } }
+{ "Business_ID": "cTE0e96GYzet799EJeStoQ", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "118" } }
+{ "Business_ID": "diCW3Pj1PTVRSyol_d7cZw", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "119" } }
+{ "Business_ID": "tRIHhPKryUZ56SfIz6mLiA", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "120" } }
+{ "Business_ID": "sGqKDtizXj3tg9jnAc9FeQ", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "121" } }
+{ "Business_ID": "TU_BU9HLflYI2xlyqVQdRA", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "122" } }
+{ "Business_ID": "I6optu9x0JAf8oT5lqJ8qw", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "123" } }
+{ "Business_ID": "wyjtGsW5NeVDknGQWnIPAQ", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "124" } }
+{ "Business_ID": "y6XohzcYjUAQOD8U3NT_yw", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "125" } }
+{ "Business_ID": "xe9qWNyYmsRvNGRPgW-ZcA", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "126" } }
+{ "Business_ID": "scjoZtbTQHi35xhAlUm2iQ", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "127" } }
+{ "Business_ID": "TzVVPWK_4dhdSEpNqZwIhQ", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "128" } }
+{ "Business_ID": "_jVOqHgcLxAOyA6uJE5Llg", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "129" } }
+{ "Business_ID": "6ii5cphr65vt6zrP9N5RVg", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "130" } }
+{ "Business_ID": "ETgJqJHV7BW6pIr9Ox74sA", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "131" } }
+{ "Business_ID": "kctef59qqlzJNqAc1ZGEvg", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "132" } }
+{ "Business_ID": "WqjqHMozyW42XLTtLnKGag", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "133" } }
+{ "Business_ID": "WJS06XxRdc6DD1s4LWE9HA", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "134" } }
+{ "Business_ID": "6qcydPo5eTSB4XHyyZDvkA", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "135" } }
+{ "Business_ID": "cCesIqo-LQt0cRlZAnrAZQ", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "136" } }
+{ "Business_ID": "AHrU1F123QPdVPTCnsy_xA", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "137" } }
+{ "Business_ID": "JJLFsLZbL21fbYRqcIGCLA", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "138" } }
+{ "Business_ID": "mi3r8tPY-nHGfsl-9BGmBw", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "139" } }
+{ "Business_ID": "Gc7OVEIs4HodL4hw9U3C3w", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "140" } }
+{ "Business_ID": "MOwB9YYd-Ko6nVgSB-ltQw", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "141" } }
+{ "Business_ID": "5F9kZPnAleDYqCeCyvGJPA", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "142" } }
+{ "Business_ID": "H26qMBb0OFNn2xmSTM1Phw", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "143" } }
+{ "Business_ID": "C3tP0fNNAoxOAC3O406CXQ", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "144" } }
+{ "Business_ID": "KEEXuHCYhsQJ-zpJhu98bA", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "145" } }
+{ "Business_ID": "iGmQlzlI4g2ky8cogfDpnQ", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "146" } }
+{ "Business_ID": "TBp9gdS6xEbSQqffVZ7iag", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "147" } }
+{ "Business_ID": "hKdvsbuQRtjajWYwjaoOQw", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "148" } }
+{ "Business_ID": "BPo5XByMdNiXK_i--gqiRA", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "149" } }
+{ "Business_ID": "WG639VkTjmK5dzydd1BBJA", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "150" } }
+{ "Business_ID": "s5N-w7EPY3DA68id5qycyA", "Cuisine": "Mexican" } 
+{ "index": { "_index": "restaurant", "_id": "151" } }
+{ "Business_ID": "KcOeFHAojaRDV-DxQJkfPA", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "152" } }
+{ "Business_ID": "Xd_l7jtUAZZAAvK8-mI2Jw", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "153" } }
+{ "Business_ID": "fX_E2J6LqK6u77zNa8xyJQ", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "154" } }
+{ "Business_ID": "W5RSIwNKBa7k0jeAs5KDYg", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "155" } }
+{ "Business_ID": "Q23LvHPuC9ajSbMEt8xoUw", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "156" } }
+{ "Business_ID": "wGFSTTB6b4MHJJUzBnVJeg", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "157" } }
+{ "Business_ID": "a-Bq_yXFVk2PptoWpmry3w", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "158" } }
+{ "Business_ID": "MhceeLrM2_3mcKw5EGLY6A", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "159" } }
+{ "Business_ID": "haK6aVs_oIUqwOn0LVZlRA", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "160" } }
+{ "Business_ID": "wSGZA3DOFSUvALZRKCM_Sw", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "161" } }
+{ "Business_ID": "NXg-oNpx0GYNiErdHb8L5A", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "162" } }
+{ "Business_ID": "CqQ2Og9kf-LhlUWtODalCQ", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "163" } }
+{ "Business_ID": "gXnC_aZR09BvqEQKGKFjBg", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "164" } }
+{ "Business_ID": "ehUuSk5gPTCQmwS_ubgKRA", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "165" } }
+{ "Business_ID": "UB1mGugr1pvgUUP1eTNXrg", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "166" } }
+{ "Business_ID": "Jhx4OoFjXFp0YxqbW0KQog", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "167" } }
+{ "Business_ID": "hzPBADaUBQEL30MGrvKsww", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "168" } }
+{ "Business_ID": "432F7ulSgnm1fNyefqgrNw", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "169" } }
+{ "Business_ID": "js7pXIr0lGoTd_6HPMPckg", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "170" } }
+{ "Business_ID": "oY-tooKEm8F-6Il1JOQzKg", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "171" } }
+{ "Business_ID": "9o4y3IqpFDaj8FddJ6oi2A", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "172" } }
+{ "Business_ID": "J9UA6rzI5WW_cDGjwDnF5g", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "173" } }
+{ "Business_ID": "orYWYTk6kNK1YODsADk_tg", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "174" } }
+{ "Business_ID": "rp8S7scxOkVVeG7dNneMGQ", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "175" } }
+{ "Business_ID": "bZQryeTD6hIsT6lSUxzSSw", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "176" } }
+{ "Business_ID": "KHdYPT0jUnUGdHGaY73mxg", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "177" } }
+{ "Business_ID": "7ZecxKox2SiVtsNDWphJZQ", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "178" } }
+{ "Business_ID": "0y6eQXDw2RDLuBwkY02xGA", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "179" } }
+{ "Business_ID": "EDucGBSfQ0YIbxdHS-KnCg", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "180" } }
+{ "Business_ID": "pC_QwLpeL2Enk4hBgDcRqQ", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "181" } }
+{ "Business_ID": "gvOe1TLb8hZgx0naC9LYpw", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "182" } }
+{ "Business_ID": "bL6gcUWgFt7mOZYT_FaGSg", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "183" } }
+{ "Business_ID": "DEp-9JVnKN7eTb9A_mUlfA", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "184" } }
+{ "Business_ID": "V3dHB6xAdd8_dH7t481PAw", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "185" } }
+{ "Business_ID": "U0deo-JRQmHrru0uSf6QWA", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "186" } }
+{ "Business_ID": "wjIyCBEpCG_HRp8veiI0YQ", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "187" } }
+{ "Business_ID": "9mWw-sK4RjSPYRHQN_S9ZQ", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "188" } }
+{ "Business_ID": "AsN3B_FjIDxjISs9K_d_ZQ", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "189" } }
+{ "Business_ID": "GuzlMBKNoClNx5I1-x-DDg", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "190" } }
+{ "Business_ID": "bTyyPU8A4pz9dieLSZPMdA", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "191" } }
+{ "Business_ID": "BPErPpKSNluwcjbKRgze3w", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "192" } }
+{ "Business_ID": "BQRfaq0U75B5EEblBZ2Aqg", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "193" } }
+{ "Business_ID": "DPDznXYX5DBLBASKfxQ-DQ", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "194" } }
+{ "Business_ID": "iq9_CMtUT1SwGcEL8fSDNQ", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "195" } }
+{ "Business_ID": "aS8QlNmESvm2ZLsE9D-c3g", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "196" } }
+{ "Business_ID": "1jAB_uaI8-P_wSqOo2S3KQ", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "197" } }
+{ "Business_ID": "sBL7J7s4Rnul40-MB0hXbA", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "198" } }
+{ "Business_ID": "yGpPYyu3s8iVNuO0ktqsDw", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "199" } }
+{ "Business_ID": "MKYhiSeXjahxh9O4Gqnimw", "Cuisine": "Italian" } 
+{ "index": { "_index": "restaurant", "_id": "200" } }
+{ "Business_ID": "DNSFvZtdsqkaidmFSpm-Jw", "Cuisine": "Italian" }
