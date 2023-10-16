@@ -14,9 +14,9 @@ This README provides information about the chatbot, including links to access it
 
 ### Screenshot 2: Dining intent
 
-![Registration](Frontend\assets\images\img2.png)
-![Registration](Frontend\assets\images\img3.png)
+![Registration](Frontend/assets/images/img2.png)
+![Registration](Frontend/assets/images/img3.png)
 
 ### Screenshot 3: Email Confirmation
 
-![Registration](Frontend\assets\images\img4.png)
+![Registration](Frontend/assets/images/img4.png)
