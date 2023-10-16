@@ -1,5 +1,41 @@
 var checkout = {};
 
+function generateRandomString(length) {
+  const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+  let randomString = '';
+
+  for (let i = 0; i < length; i++) {
+    const randomIndex = Math.floor(Math.random() * characters.length);
+    randomString += characters.charAt(randomIndex);
+  }
+
+  return randomString;
+}
+
+function createSessionId() {
+  // Generate a random 10-character string
+  const randomString = generateRandomString(10);
+
+  // Generate the timestamp when the conversation starts
+  const timestamp = new Date().toISOString();
+
+  // Combine the timestamp and the random string
+  const sessionId = `${timestamp}-${randomString}`;
+
+  return sessionId;
+}
+
+// Create a session ID when the conversation starts
+const sessionId = createSessionId();
+console.log(`Session ID: ${sessionId}`);
+
+if (document.cookie === '') {
+  document.cookie = sessionId;
+}
+
+// Use the same session ID for all user responses during this conversation
+
+
 $(document).ready(function() {
   var $messages = $('.messages-content'),
     d, h, m,
@@ -31,7 +67,8 @@ $(document).ready(function() {
       messages: [{
         type: 'unstructured',
         unstructured: {
-          text: message
+          text: message,
+          id: document.cookie
         }
       }]
     }, {});
