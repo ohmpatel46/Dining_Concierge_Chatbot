@@ -1,5 +1,5 @@
 # Chatbot README
-
+Submitted by : Jeevika Kancherla, Ohm Patel
 This README provides information about the chatbot, including links to access it and screenshots for both first-time and returning users.
 
 ## 1. Working Link of the Chatbot
@@ -20,3 +20,11 @@ This README provides information about the chatbot, including links to access it
 ### Screenshot 3: Email Confirmation
 
 ![Registration](Frontend/assets/images/img4.png)
+
+## 3. Returning User
+
+### Scrrenshot 1: Asking for previous recommendations
+![Landing Page](Frontend/assets/images/img5.png)
+
+### Screenshot 2: 
+![Landing Page](Frontend/assets/images/img6.png)
