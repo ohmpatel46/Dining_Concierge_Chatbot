@@ -1,5 +1,5 @@
 # Chatbot README
-Submitted by : Jeevika Kancherla, Ohm Patel
+Submitted by : Jeevika Kancherla[jk7846], Ohm Patel[odp2008]
 This README provides information about the chatbot, including links to access it and screenshots for both first-time and returning users.
 
 ## 1. Working Link of the Chatbot
