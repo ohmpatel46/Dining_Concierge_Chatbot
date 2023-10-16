@@ -10,7 +10,7 @@ This README provides information about the chatbot, including links to access it
 
 ### Screenshot 1: Landing Page
 
-![Landing Page](Frontend\assets\images\img1.png)
+![Landing Page](Frontend/assets/images/img1.png)
 
 ### Screenshot 2: Dining intent
 
