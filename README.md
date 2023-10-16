@@ -24,7 +24,7 @@ This README provides information about the chatbot, including links to access it
 ## 3. Returning User
 
 ### Scrrenshot 1: Asking for previous recommendations
-![Landing Page](Frontend/assets/images/img5.png)
+![Landing Page](Frontend/assets/images/img5.jpg)
 
 ### Screenshot 2: 
-![Landing Page](Frontend/assets/images/img6.png)
+![Landing Page](Frontend/assets/images/img6.jpg)
